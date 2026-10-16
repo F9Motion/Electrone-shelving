@@ -1,1 +1,4 @@
-
+# October 16: Doing PCB
+I start this project with doing PCB in KiCad. The Idea isn't hard. I want to do just shelving with RGB lamps and some other components. I want to do 6 lamps for 6 shelf. And in the middle of shelf I want to do controller to conrol color mode. In the controller I want to add small OLED display and 2 buttons to switch color mode. The best work I'm planning to do design of shelf not just cube with holes rather shelf with octagons or other details to achieve cutom and morу level of detail. And I want to add battery because I want what RGB lamps in evey shelf works without socket minimum 2 hours (this only minimum I want to achieve 5 hours). In KiCad I add connector for battery 6 RGB diodes USB-C Type-C connector. I also add OLED display. I finish schematic and open PCB editor. And that's all what I did in this day : D This journal wrote the next day after school.
+<img width="1676" height="854" alt="Снимок экрана 2026-10-16 181445" src="https://github.com/user-attachments/assets/3bbbc38f-bd61-4c08-bb7c-bef5d6c01147" />
+**Total time spent: 1.4 hours**
