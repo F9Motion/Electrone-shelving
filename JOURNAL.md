@@ -8,3 +8,7 @@ At first I correct my footprints in KiCad I draw in edge cuts layer to cut PCB I
 After doing PCB I start to do shelving in Blender. I did lamp for every shelf. When I did this I change my mind: The RGB diode is very small so I in evey lamp add a lot of each lamp. I did case for this too. The most time today taked away by this work. After this I write this text in journal and went to sleep.
 <img width="1919" height="1017" alt="Снимок экрана 2026-10-18 222746" src="https://github.com/user-attachments/assets/4e54f621-1163-4d7d-8f90-ab82ac5a8936" />
 **Total time spent: 2.25 hours**
+# October 19: Design shelving
+I watched a lot of working setups in Pinterest and in Instagram. At first I wanted to do design with hexagon shapes but than I can't do hexagon in Blender. It was so crooked. So I than design with octagon shapes. I like white black gamma style so I did shelfs white, lamps with octagons I did black. I also did hole for cabels form lamps. And wrote this Journal. That's enough for today.
+<img width="1919" height="1020" alt="Снимок экрана 2026-10-19 145559" src="https://github.com/user-attachments/assets/68f491c3-2996-4f85-ab94-527a3dc801a0" />
+**Total time spent: 0.7 hours**
