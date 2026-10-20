@@ -17,3 +17,5 @@ I'm at home so I continue doing project :D. I redid lamp and optimize poligons t
 # October 20: Finishing design
 The shelvigs is very tall 1.8 metres so Design this took a lot of time. Today I don't did somethink hard. I just randomize octagons. So if I didn't do somethink hard the journal is briefly. This work today took from me 40 minutes. Here is imagine of shelving :D
 <img width="1581" height="786" alt="Снимок экрана 2026-10-20 182552" src="https://github.com/user-attachments/assets/346ca3a2-75ea-43b9-b3a0-61f14a92c510" />
+Than I started to do firmware. At first I want to learn how to write firmware from claude ai. At first this is was simple and I want to continue. But then I take a limit in web site :(. Than I just download code for firmware from Ai :D. I know I don't take a coins for this but I think working in KiCad or in Blender is more interesting than just writing code in Thonny IDE. After all of this I start preparing my github reposity. Adding STEP files .blend files etc. And time for writing BOM file and writing Readme. I know I can't use AI in this steps and I had to writing this with boring :(. 
+
