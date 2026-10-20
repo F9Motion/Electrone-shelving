@@ -14,3 +14,6 @@ I watched a lot of working setups in Pinterest and in Instagram. At first I want
 I'm at home so I continue doing project :D. I redid lamp and optimize poligons to prepare convert they soon no .step files. And I do holes for cabel form RGB Lamp in every shelf. I place RGB Lmaps in every top of shelf. Than I did compact case for PCB, OLED display and for 2 buttons. And now time is 21:20 so I start write this JOURNAL.md. I add materials, add color. And this is imagine of work today : )
 <img width="1919" height="1013" alt="Снимок экрана 2026-10-19 221923" src="https://github.com/user-attachments/assets/f1de56ae-75cd-40a7-9f2e-21056f9cc96f" />
 **Total time spent: 2 hours**
+# October 20: Finishing design
+The shelvigs is very tall 1.8 metres so Design this took a lot of time. Today I don't did somethink hard. I just randomize octagons. So if I didn't do somethink hard the journal is briefly. This work today took from me 40 minutes. Here is imagine of shelving :D
+<img width="1581" height="786" alt="Снимок экрана 2026-10-20 182552" src="https://github.com/user-attachments/assets/346ca3a2-75ea-43b9-b3a0-61f14a92c510" />
