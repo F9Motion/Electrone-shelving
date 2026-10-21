@@ -64,6 +64,7 @@ All this project will be sponsered by Hack club forge. A lot of thanks for you. 
 |Socket                              |$2.08  |https://aliexpress.ru/item/1005009725016771.html?spm=a2g2w.cart.cart_split.15.6b284aa6VQwMUn&sku_id=12000049959236831                                          |
 |Felament price for all of step files|       |                                                                                                                                                               |
 |All step files                      |$489.45|                                                                                                                                                               |
+| Print PCB | $11 |
 
 
 ## Credits
